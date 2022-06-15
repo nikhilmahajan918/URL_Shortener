@@ -17,7 +17,7 @@ Functionality of this chrome extension is to:
 
 ### This is how the extension looks like:
 
-![](nikhil_links.gif)
+![](Project_GIF.gif)
 
 
 ### Built with
